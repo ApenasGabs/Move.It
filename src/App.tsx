@@ -10,14 +10,13 @@ function App() {
         <p>
           jaja coloco alguma coisa aqui 
         </p>
-        <p>Made with React and ❤️ by  
+        <p>Made with ❤️ and React by   
         <a
           className="App-link"
           href="https://www.linkedin.com/in/apenasgabs/"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Apenasgabs
+        >  Apenasgabs
         </a>
         </p>
         
