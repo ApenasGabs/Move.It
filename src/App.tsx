@@ -1,26 +1,11 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { ExperienceBar } from './components/ExperienseBar';
+import './styles/global.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          jaja coloco alguma coisa aqui 
-        </p>
-        <p>Made with ❤️ and React by   
-        <a
-          className="App-link"
-          href="https://www.linkedin.com/in/apenasgabs/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >  Apenasgabs
-        </a>
-        </p>
-        
-      </header>
+    <div className="container">
+        <h1>Site em construção</h1>
+        <ExperienceBar />
     </div>
   );
 }
