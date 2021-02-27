@@ -16,11 +16,11 @@ export default function Home() {
     <section>
       <div>
       <Profile />
-      
+      <CompletedChallenges />
         
       </div>
       <div>
-      <CompletedChallenges />
+      
       </div>
     </section>
 
